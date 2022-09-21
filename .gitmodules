@@ -1,0 +1,3 @@
+[submodule "ruby-kickstart"]
+	path = ruby-kickstart
+	url = https://github.com/JoshCheek/ruby-kickstart.git
